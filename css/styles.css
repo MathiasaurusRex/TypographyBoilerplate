@@ -1,0 +1,68 @@
+html {
+  font-size: 62.5%;
+  color: #444;
+}
+
+body {
+  font-size: 1.8rem;
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+h5 {
+  font-size: 1rem;
+}
+
+p {
+  font-size: 1.8rem;
+  line-height: 1.6;
+}
+
+small {
+  display: block;
+  font-size: 66%;
+}
+
+ul, ol {
+  font-size: 1.8rem;
+  line-height: 2;
+}
+
+address > * {
+  margin: 0;
+}
+
+.titlebar {
+  border-bottom: 1px solid #444;
+  padding: 0 2rem;
+}
+
+.stage {
+  display: flex;
+}
+
+.sidebar {
+  width: 30vw;
+  padding: 2rem;
+  border-right: 1px solid #444;
+}
+
+.content {
+  width: 70vw;
+  padding: 2rem;
+}
